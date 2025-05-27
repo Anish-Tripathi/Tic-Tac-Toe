@@ -14,13 +14,13 @@ A modern, interactive implementation of the timeless **Tic Tac Toe** (Noughts an
 
 <div align="center">
 
-  <img src="./screenshots/board.png" alt="Game Board" width="400" height="400"/>
+  <img src="./screenshots/board.png" alt="Game Board" width="500" height="300"/>
   <p><strong>🎮 Game Board</strong></p>
 
-  <img src="./screenshots/win.png" alt="Win Popup" width="400" height="400"/>
+  <img src="./screenshots/win.png" alt="Win Popup" width="500" height="300"/>
   <p><strong>🏆 Win Popup</strong></p>
 
-  <img src="./screenshots/draw.png" alt="Draw Popup" width="400" height="400"/>
+  <img src="./screenshots/draw.png" alt="Draw Popup" width="500" height="300"/>
   <p><strong>🤝 Draw Popup</strong></p>
 
 </div>
