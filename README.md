@@ -6,20 +6,24 @@ A modern, interactive implementation of the timeless **Tic Tac Toe** (Noughts an
 
 ## 🔗 Live Demo
 
-👉 **Play Online:** [https://yourusername.github.io/tic-tac-toe](https://yourusername.github.io/tic-tac-toe)
+👉 **Play Online:** (https://tic-tac-toe-indol-kappa.vercel.app/)
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Preview
 
-**Game Board**  
-![Tic Tac Toe Board](./screenshots/board.png)
+<div align="center">
 
-**Win Popup**  
-![Win Popup](./screenshots/win.png)
+  <img src="./screenshots/board.png" alt="Game Board" width="400" height="400"/>
+  <p><strong>🎮 Game Board</strong></p>
 
-**Draw Popup**  
-![Draw Popup](./screenshots/draw.png)
+  <img src="./screenshots/win.png" alt="Win Popup" width="400" height="400"/>
+  <p><strong>🏆 Win Popup</strong></p>
+
+  <img src="./screenshots/draw.png" alt="Draw Popup" width="400" height="400"/>
+  <p><strong>🤝 Draw Popup</strong></p>
+
+</div>
 
 ---
 
@@ -73,12 +77,6 @@ Just open `index.html` in your favorite browser:
 
 - Double-click `index.html`, **or**
 - Run a simple web server (recommended for best experience):
-
-```bash
-# Using Python 3
-python -m http.server
-# Then visit http://localhost:8000 in your browser
-```
 
 ---
 
